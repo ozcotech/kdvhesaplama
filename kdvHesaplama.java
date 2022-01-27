@@ -10,9 +10,7 @@ public class kdvHesaplama{
 
     double tutar = para.nextDouble();
 
-    double oran1 = 1.18;
-
-    double oran2 = 1.08;
+    double oran1 = 1.18, oran2 = 1.08;
 
     double sonuc1 = (tutar * oran1);
 
