@@ -20,6 +20,7 @@ public class kdvHesaplama{
 
     double durum = bir ? sonuc1 : sonuc2;
 
+    System.out.println("Girilen Tutar: " + tutar);
     System.out.println ("KDV'li Tutar: " + durum + " TL");
 
     para.close();
