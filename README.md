@@ -1,0 +1,2 @@
+# kdvhesaplama
+ratio calculation program
